@@ -1,0 +1,12 @@
+main {
+    color: #FAFAFA;
+    background-color: #24292f;
+}
+
+.icons-social a {
+    color: #FAFAFA;
+}
+
+.icons-social a svg path {
+    fill: #FAFAFA;
+}
